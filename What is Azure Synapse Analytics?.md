@@ -38,3 +38,6 @@
   - Managed virtual network with private endpoints	
   - Column- and row-level security	
   - Column-level encryption
+
+
+Ref: https://azure.microsoft.com/en-us/products/synapse-analytics/#overview
